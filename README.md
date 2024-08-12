@@ -6,7 +6,7 @@ I am Shakib. front end developer. I have been doing web development since 2023.T
 
 
 
-Skills:  REACT / JS / HTML / CSS / Bootstrap / 
+Skills:  REACT / JS / HTML / CSS / Bootstrap / tailwindcss
 
 - 🔭 I’m currently working on Development 
 - 🌱 I’m currently learning JavaScript 
