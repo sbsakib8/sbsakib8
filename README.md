@@ -217,14 +217,11 @@
   <img src="https://profile-counter.glitch.me/shahriyarhosen/count.svg" />
 </p> -->
 
-<h1 align="center">💖 Git Roll <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
-<a href="https://gitroll.io/profile/ugK59C81myfgmml6CPzYj7nVDkmQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugK59C81myfgmml6CPzYj7nVDkmQ2" alt="GitRoll Profile Badge"/></a>
 
-<h1 align="center">🏆 Github Profile Trophy</h1>
 
 <!-- <p align="center">  -->
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
   <!-- </a> -->
 <!-- </p> -->
 
