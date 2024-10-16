@@ -18,13 +18,13 @@
     <!--Bd flag-->
     <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
-    Hello, I'm Shahriyar Hosen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    Hello, I'm SB Sakib Sarkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
     <br/> 
     I'm an enthusiastic and passionate Web Developer from Bangladesh.
   </h3>
 
   <div align="left" text-align= "justify">
-    I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥Next.js app and 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+   I am Shakib. front end developer. I have been doing web development since 2023.The reason for coming to programming is, actually I like coding a lot, and thinking about the future, I think programming is the best option in the future.I don't know if my coding is better than everyone else's. But I try my best to write good coding so that everyone will fall in love with my coding.I am now in Dubai. I am working in hotel and also doing programming and learning new things.Being a Bengali, working alone was very difficult for me. Now I want a front end development job.Pray for me, that I can do something good…
   </div>
   <br />
 <div>
@@ -41,12 +41,12 @@
 <div>
 <!-- left side section -->
 
-- 🎯 I’m currently learning Next.js.
-- 🥅 2024 Goals: To be a Master of Next js, React Native, and Testing
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
-- 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
-- 🤔 I’m looking for help with To increase efficiency
-- 📫 How to reach me: shahriyar.hosen.dev@gmail.com
+- 🔭 I’m currently working on Development
+- 🌱 I’m currently learning JavaScript
+- 🤔 I’m looking for help with you
+- 💬 Ask me about Web Development
+- 📫 How to reach me: Gmail, Instagram
+- ⚡ Fun fact: python
 <!-- - 🔗 Latest Project Live [link](https://docs.google.com/document/d/1TeRhrGVy23XiAJMTjCCL4Ik05A4lUG50nA8BrCOsR1E/edit?usp=sharing) -->
 <!-- - 👯 I want to collaborate on MERN projects with other passionate developers. -->
 </div>
