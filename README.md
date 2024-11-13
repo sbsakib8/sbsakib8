@@ -93,7 +93,7 @@
           />
          <img
             width="340px"
-            alt="Shahriyar-Hosen :: Top Langs"
+            alt="SB Sakib sarkar :: Top Langs"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
         </div>
