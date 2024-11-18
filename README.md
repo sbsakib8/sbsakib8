@@ -56,7 +56,59 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
 
-
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td colspan="1" align="center">
+        <img
+          width="400px"
+          alt="sb sakib sarkar :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td colspan="1" align="center">
+      <img
+          align="center"
+          width="400px"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=blue_green"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+       <img
+          align="center"
+          width="70%"
+          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
+          <img
+            width="460px"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=8"
+          />
+         <img
+            width="340px"
+            alt="SB Sakib sarkar :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
+         />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div style="display: flex; justify-content: center;" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
+        </div>
+      </td>
+    </tr>
+</table>
+</div>
 
 <br/>
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
