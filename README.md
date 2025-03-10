@@ -20,11 +20,11 @@
     <br/> 
     Hello, I'm SB Sakib Sarkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
     <br/> 
-    I'm an enthusiastic and passionate Web Developer from Bangladesh.
+    I'm an MERN Stack Web Developer from Bangladesh.
   </h3>
 
   <div align="left" text-align= "justify">
-   I am Shakib. front end developer. I have been doing web development since 2023.The reason for coming to programming is, actually I like coding a lot, and thinking about the future, I think programming is the best option in the future.I don't know if my coding is better than everyone else's. But I try my best to write good coding so that everyone will fall in love with my coding.I am now in Dubai. I am working in hotel and also doing programming and learning new things.Being a Bengali, working alone was very difficult for me. Now I want a front end development job.Pray for me, that I can do something good…
+   I am Shakib. Full Stack developer. I have been doing web development since 2023.The reason for coming to programming is, actually I like coding a lot, and thinking about the future, I think programming is the best option in the future.I don't know if my coding is better than everyone else's. But I try my best to write good coding so that everyone will fall in love with my coding.I am now in Dubai. I am working in hotel and also doing programming and learning new things.Being a Bengali, working alone was very difficult for me. Now I want a Full Stack development job.Pray for me, that I can do something good…
   </div>
   <br />
 <div>
@@ -42,7 +42,8 @@
 <!-- left side section -->
 
 - 🔭 I’m currently working on Development
-- 🌱 I’m currently learning JavaScript
+- 📫 I'm Full Stack Developer
+- 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with you
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Gmail, Instagram
@@ -186,6 +187,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <!-- Technologies Slider -->
@@ -221,7 +225,7 @@
 
 <!-- <p align="center">  -->
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=sbsakib8&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
   <!-- </a> -->
 <!-- </p> -->
 
