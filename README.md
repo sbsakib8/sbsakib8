@@ -24,7 +24,15 @@
   </h3>
 
   <div align="left" text-align= "justify">
-   I am Shakib. Full Stack developer. I have been doing web development since 2023.The reason for coming to programming is, actually I like coding a lot, and thinking about the future, I think programming is the best option in the future.I don't know if my coding is better than everyone else's. But I try my best to write good coding so that everyone will fall in love with my coding.I am now in Dubai. I am working in hotel and also doing programming and learning new things.Being a Bengali, working alone was very difficult for me. Now I want a Full Stack development job.Pray for me, that I can do something good…
+  Hi, I'm Sakib Hossen — a passionate Full Stack Developer specializing in modern web technologies.
+
+I have been building web applications since 2023, focusing on creating scalable, user-friendly, and high-performance solutions. I enjoy turning ideas into real-world products using technologies like React, Node.js, and MongoDB.
+
+Currently, I am continuously improving my skills, working on real projects, and exploring AI-powered solutions.
+
+I am actively looking for opportunities as a Full Stack Developer where I can contribute, grow, and build impactful digital products.
+
+Let's build something amazing together.
   </div>
   <br />
 <div>
